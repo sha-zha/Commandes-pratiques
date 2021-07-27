@@ -1,2 +1,11 @@
 # Commandes-pratiques
-Commandes pratiques ssur le terminal 
+
+
+Commandes pratiques sur linux
+## relancer apache  
+/etc/init.d/apache2 restart
+
+## lancer mysql 
+/etc/init.d/mysqld start
+
+
